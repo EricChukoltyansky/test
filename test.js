@@ -1,4 +1,4 @@
 function func() {
-    console.log('testEric');
+    console.log('testEric2');
 }
 
